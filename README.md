@@ -13,6 +13,14 @@ The Yandex program focuses on training students in skills needed to begin a care
 4. Analysis of Telecom Service Usage
 5. Image Analysis to Estimate Age of Supermarket Clients
 6. Telecom Analysis to Recommend New Plans for Users
+7. Bank Client Churn Analysis
+8. Analysis of Borehole Information to Establish Most Profitable Location for Oil Well
+9. Optimization of Industrial Gold Refinement Process
+10. Anonymization of Personal Details
+11. Sale Price Recommendation System for Autosales Platform
+12. Prediction of Number of Taxi Rides Ordered in Following Hour
+13. Classification of Comments as Toxic or Non-Toxic
+
 
 
 

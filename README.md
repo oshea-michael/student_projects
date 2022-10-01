@@ -22,6 +22,13 @@ The Yandex program focuses on training students in skills needed to begin a care
 13. Classification of Comments as Toxic or Non-Toxic
 
 
+## 1. Comparison of Listening Habits of Music Service Users in Two Different Cities
+Tools: Python, Pandas
+Goal: Verify three hypotheses about the music listening habits of users in Moscow and Saint Petersburg.
+Data from music service was analyzed to establish how habits differ within one city (i.e. from day to day or at different times) and between the two cities.
+
+## 2. Analysis of Factors Influencing Lendees Ability to Pay Back Debt
+Tools: 
 
 
 

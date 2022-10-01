@@ -34,7 +34,12 @@ Data from the lending division of a bank was analyzed to establish how social fa
 
 ## 3. Real Estate Market Analysis – Establishing Pricing Norms for Fraud Detection and Recommendation System
 Tools: Python, Pandas, Matplotlib
-Goal: 
+Goal: Predict price of real estate objects to recommend sale price to new sellers and to find suspicious postings
+Data from real estate platform was analyzed to establish norms for real estate pricing in Saint Petersburg based on features of each given object (e.g. rooms, floor, ...) as well as distance from center.
+
+## 4. Analysis of Telecom Service Usage
+Tools: Python, Pandas, Matplotlib, NumPy, SciPy
+
 
 
 

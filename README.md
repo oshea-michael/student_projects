@@ -28,7 +28,13 @@ Goal: Verify three hypotheses about the music listening habits of users in Mosco
 Data from music service was analyzed to establish how habits differ within one city (i.e. from day to day or at different times) and between the two cities.
 
 ## 2. Analysis of Factors Influencing Lendees Ability to Pay Back Debt
-Tools: 
+Tools: Python, Pandas
+Goal: Analyze the connection between social factors (marital status, children, etc.) and loan repayment
+Data from the lending division of a bank was analyzed to establish how social factors influence an individual's ability to repay loans. Factors were studied individually, not in conjunction with one another.
+
+## 3. Real Estate Market Analysis – Establishing Pricing Norms for Fraud Detection and Recommendation System
+Tools: Python, Pandas, Matplotlib
+Goal: 
 
 
 

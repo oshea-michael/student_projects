@@ -65,7 +65,21 @@ Data from bank was analyzed to train model that predicts if a client will close 
 Topics/Techniques:
 
 ## 8. Analysis of Borehole Information to Establish Most Profitable Location for Oil Well
-Tools: 
+Tools: Python, Pandas, Numpy, Matplotlib, scikit-learn
+Goal: Determine most profitable region for oil drilling
+Borehole testing data from oil company was used to establish a. the most profitable and b. the most sure choice of region for drilling a new oil well.
+Topics/Techniques:
+
+## 9. Optimization of Industrial Gold Refinement Process
+Tools: Python, Pandas, NumPy, Matplotlib, SciPy, scikit-learn
+Goal: Use ML to optimize the gold refinement process
+Data gathered from each stage of an industrial gold refinement process was used to create a model that would predict the purity of the final product, which would then be used to optimize the refinement process to produce the purest final result.
+Topics/Techniques:
+
+## 10. Anonymization of Personal Details
+Tools: Python, Pandas, NumPy, scikit-learn
+Goal: 
+
 
 
 

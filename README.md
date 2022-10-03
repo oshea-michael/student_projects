@@ -131,7 +131,17 @@ Data from taxi service was used to train model that would predict the number of 
 Topics/Techniques: time series analysis, exponential smoothing, SARIMA, gradient boosting, regression
 
 ## 13. Classification of Comments as Toxic or Non-Toxic
-Tools:
+Tools: Python, Pandas, NumPy, Matplotlib, scikit-learn, LightGBM, XGBoost, CatBoost, Optuna, PyTorch, BERT
+
+Goal: Use an NLP approach to determine the toxicity of a given comment
+
+Labeled data from a wikisite was used to train a neural network that predicts if a comment is toxic or not.
+
+Topics/Techniques: NLP, neural networks
+
+
+
+
 
 
 

@@ -113,7 +113,7 @@ This project consisted of two parts. The theoretical part required proving that 
 Topics/Techniques: linear algebra, matrices, regression
 
 ## 11. Sale Price Recommendation System for Autosales Platform
-Tools: Python, Pandas, NumPy, scikit-learn, LGBMBoost, XGBoost, CatBoost, Optuna
+Tools: Python, Pandas, NumPy, scikit-learn, LightGBM, XGBoost, CatBoost, Optuna
 
 Goal: Use description of cars to create list price recommendation system for used car site
 
@@ -122,7 +122,16 @@ Data from automobile sales site was used to train a model to predict listing pri
 Topics/Techniques: gradient boosting, regression
 
 ## 12. Prediction of Number of Taxi Rides Ordered in Following Hour
+Tools: Python, Pandas, NumPy, Matplotlib, statsmodels, scikit-learn, LightGBM, XGBoost, CatBoost, Optuna
 
+Goal: Use previous data about number of taxis ordered to predict the number of taxis to be ordered in the following hour
+
+Data from taxi service was used to train model that would predict the number of taxis needed in the hour following the end of the data given to the model. Several approaches were used to achieve the given goal, including exponential smoothing, SARIMA, and regression models trained using time lag information.
+
+Topics/Techniques: time series analysis, exponential smoothing, SARIMA, gradient boosting, regression
+
+## 13. Classification of Comments as Toxic or Non-Toxic
+Tools:
 
 
 

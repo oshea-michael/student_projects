@@ -7,6 +7,9 @@ This repository holds projects that I completed as a student of Yandex Practicum
 
 The Yandex program focuses on training students in skills needed to begin a career in Data Science. This most significantly focuses on the use of Python and a number of different libraries and approaches, as well as on the development of statistical analysis and critical thinking skills. For more detailed information, please see the project descriptions below.
 
+###### Note: All projects were completed in Russian. I have written english descriptions at the beginning of each project, but I do not intend to translate everthing that is written in each project. If, for whatever reason, you would like a project translated, please contact me.
+
+
 ## Projects:
 1. Comparison of Listening Habits of Music Service Users in Two Different Cities
 2. Analysis of Factors Influencing Lendees' Ability to Pay Back Debt

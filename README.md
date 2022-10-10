@@ -1,5 +1,6 @@
 # student_projects
 
+### The projects themselves will be added this week, once I have removed all of the identifying information and data, which does not belong to me.
 
 ## General Information
 This repository holds projects that I completed as a student of Yandex Practicum's Data Science Specialist program.

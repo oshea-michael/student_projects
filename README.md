@@ -1,13 +1,13 @@
 # student_projects
 
-### The projects themselves will be added this week, once I have removed all of the identifying information and data, which does not belong to me.
-
 ## General Information
 This repository holds projects that I completed as a student of Yandex Practicum's Data Science Specialist program.
 
 The Yandex program focuses on training students in skills needed to begin a career in Data Science. This most significantly focuses on the use of Python and a number of different libraries and approaches, as well as on the development of statistical analysis and critical thinking skills. For more detailed information, please see the project descriptions below.
 
-###### Note: All projects were completed in Russian. I have written English descriptions at the beginning of each project, but I do not intend to translate everthing that is written in each project. If, for whatever reason, you would like a project translated, please contact me.
+###### Note 1: All projects have been edited to remove all of the identifying information and data, which does not belong to me.
+
+###### Note 2: All projects were completed in Russian. I have written English descriptions at the beginning of each project, but I do not intend to translate everthing that is written in each project. If, for whatever reason, you would like a project translated, please contact me.
 
 
 ## Projects:

@@ -1,3 +1,7 @@
+# Bank Churn Analysis
+
+## Overview:
+
 Tools: Python, Pandas, NumPy, Matplotlib, scikit-learn
 
 Goal: Predict if client will leave bank in the near future
@@ -6,8 +10,7 @@ Data from bank was analyzed to train model that predicts if a client will close 
 
 Topics/Techniques: Classification, hyperparameter tuning, ML model selection
 
-
-# Bank Churn Analysis
+## Description:
 
 The goal of this project is to train and test a model that will predict if a bank client is likely to leave. The bank's marketing department requires such a model so that they will be able to actively work on keeping clients who are considering leaving, rather than working on attracting new clients.
 

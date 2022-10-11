@@ -20,7 +20,7 @@ The goal of this project was to check the validity of three hypotheses about the
 
 3. Moscow and Saint Petersburg prefer different genres more generally; listeners in Moscow more often choose pop music, and Saint Petersburg more often choose Russian rap.
 
-The dataset was received with a variety of problems and imperfections. As such, the project will be completed in three steps:
+The dataset was received with a variety of problems and imperfections. As such, the project was completed in three steps:
 - Evaluation of quality of dataset
 - Datacleaning
 - Hypothesis verification
